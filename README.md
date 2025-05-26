@@ -6,4 +6,4 @@
 ## Modelos Utilizados: Regresion
 ## Codigo: https://colab.research.google.com/drive/17GiVMuCc2R4LuusUpXV3dXjUhLNKq4PJ?usp=sharing
 ## Video: 
-## Repositorio: 
+## Repositorio: https://github.com/DSag31/Proyecto-IA-I
