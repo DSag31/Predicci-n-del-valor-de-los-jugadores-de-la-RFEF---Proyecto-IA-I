@@ -5,5 +5,5 @@
 ## Dataset: https://www.kaggle.com/datasets/isabelocastillo/jugadores-de-futbol-de-la-rfef-temporada-2023-2024/data
 ## Modelos Utilizados: Regresión usando métodos de ML y Clasificación con DL
 ## Codigo: [https://drive.google.com/file/d/1pL1im1FT5Z2Di9-2NX0YFh1f2vfkZrWY/view?usp=sharing](https://colab.research.google.com/drive/17GiVMuCc2R4LuusUpXV3dXjUhLNKq4PJ?usp=sharing)
-## Video: 
+## Video:  https://www.youtube.com/watch?v=s-KJpiezFNs
 ## Repositorio: https://github.com/DSag31/Proyecto-IA-I
