@@ -4,6 +4,6 @@
 ## Objetivo: Desarrollar un modelo de predicción del valor de un jugador , teniendo en cuenta su desempeño. Se busca poder identificar variables relevantes que determinen su valor y construir un sistema capaz de estimar de manera precisa utilizando la inteligencia artificial y machine learning.
 ## Dataset: https://www.kaggle.com/datasets/isabelocastillo/jugadores-de-futbol-de-la-rfef-temporada-2023-2024/data
 ## Modelos Utilizados: Regresion
-## Codigo: https://colab.research.google.com/drive/17GiVMuCc2R4LuusUpXV3dXjUhLNKq4PJ?usp=sharing](https://drive.google.com/file/d/1pL1im1FT5Z2Di9-2NX0YFh1f2vfkZrWY/view?usp=sharing
+## Codigo: https://drive.google.com/file/d/1pL1im1FT5Z2Di9-2NX0YFh1f2vfkZrWY/view?usp=sharing
 ## Video: 
 ## Repositorio: https://github.com/DSag31/Proyecto-IA-I
